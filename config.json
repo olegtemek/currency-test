@@ -1,0 +1,5 @@
+{
+  "DbUrl":"postgres://kursUser:kursPswd@db:5432/TEST",
+  "Env":"local",
+  "ServerAddr":"0.0.0.0:8000"
+}
